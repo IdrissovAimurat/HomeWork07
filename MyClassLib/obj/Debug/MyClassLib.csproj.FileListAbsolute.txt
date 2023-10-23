@@ -1,0 +1,6 @@
+C:\Аймекешка дз\4 курс 1 семестр\c#\hw07\homeWork07\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Аймекешка дз\4 курс 1 семестр\c#\hw07\homeWork07\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Аймекешка дз\4 курс 1 семестр\c#\hw07\homeWork07\MyClassLib\obj\Debug\MyClassLib.csproj.AssemblyReference.cache
+C:\Аймекешка дз\4 курс 1 семестр\c#\hw07\homeWork07\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Аймекешка дз\4 курс 1 семестр\c#\hw07\homeWork07\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Аймекешка дз\4 курс 1 семестр\c#\hw07\homeWork07\MyClassLib\obj\Debug\MyClassLib.pdb
